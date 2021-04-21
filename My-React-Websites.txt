@@ -1,5 +1,9 @@
+
 To do list app:
-- https://todo-app-72030.web.app/
+== https://todo-app-72030.web.app/
+-------------------------------------------------
 
 The Kitchen website:
-- https://the-kitchen-6a67d.web.app/
+- hamburger menu when resize or in mobile mode
+== https://the-kitchen-6a67d.web.app/
+-------------------------------------------------
