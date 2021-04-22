@@ -1,5 +1,5 @@
 
-To do list app:
+Todo app:
 ==  [ https://todo-app-72030.web.app/ ]
 -------------------------------------------------
 
