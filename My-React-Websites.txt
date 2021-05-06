@@ -12,9 +12,17 @@ Login page with firebase username/email (not google auth)
 - Login success will bring to another page (not using Router, dirty way)
 - learning Router and Redux, will improve it in the future
 == [ https://login-app-ea20d.web.app/ ]
+---------------------------------------------------------------------------
 
 Resort website
 - Redux basics are used to create the hamburger bar in mobile mode
 - Could not manage to implement redux to toggle the hamburger bars using only 1 button, so a small 'X' button is created to close the nav bar in mobile mode
 - The hamburger bars could have been done using simpler 'useState' hook instead of Redux
 == [ https://resort-website-a3534.web.app/ ]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fetching JSON, display and cycle through it on the user interface
+- basic useState hook
+- buttons to cycle through each JSON object
+== [ https://fetch-json-94b8c.web.app/ ] 
+----------------------------------------------------------------------
