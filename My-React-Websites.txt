@@ -3,16 +3,17 @@ Todo app:
 ==  [ https://todo-app-72030.web.app/ ]
 -------------------------------------------------
 
-The Kitchen website:
-- hamburger menu when resize or in mobile mode
-== [ https://the-kitchen-6a67d.web.app/ ]
--------------------------------------------------
-
 Login page with firebase username/email (not google auth)
 - Login success will bring to another page (not using Router, dirty way)
 - learning Router and Redux, will improve it in the future
 == [ https://login-app-ea20d.web.app/ ]
 ---------------------------------------------------------------------------
+
+Fetching JSON, display and cycle through it on the user interface
+- basic useState hook
+- buttons to cycle through each JSON object
+== [ https://fetch-json-94b8c.web.app/ ] 
+----------------------------------------------------------------------
 
 Resort website
 - Redux basics are used to create the hamburger bar in mobile mode
@@ -21,8 +22,7 @@ Resort website
 == [ https://resort-website-a3534.web.app/ ]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fetching JSON, display and cycle through it on the user interface
-- basic useState hook
-- buttons to cycle through each JSON object
-== [ https://fetch-json-94b8c.web.app/ ] 
-----------------------------------------------------------------------
+The Kitchen website:
+- hamburger menu when resize or in mobile mode
+== [ https://the-kitchen-6a67d.web.app/ ]
+-------------------------------------------------
